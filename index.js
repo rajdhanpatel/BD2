@@ -1,4 +1,4 @@
-//BD1 - Assignments
+//BD2 - Assignments
 const express = require('express');
 const { resolve } = require('path');
 
